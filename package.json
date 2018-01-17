@@ -1,0 +1,14 @@
+{
+  "name": "sassy",
+  "version": "1.0.0",
+  "description": "sass recap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass -o css scss" 
+  },
+  "author": "boochoo",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
